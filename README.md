@@ -70,7 +70,7 @@ Weighing Machines </br>
 
 ### LED OFF
 
-![WhatsApp Image 2024-10-29 at 3 19 38 PM](https://github.com/user-attachments/assets/932c3786-fa52-4636-ae6c-d093b0fb40d9)
+< img src="https://github.com/user-attachments/assets/932c3786-fa52-4636-ae6c-d093b0fb40d9" width="400" height="500"/>
 
 
 
