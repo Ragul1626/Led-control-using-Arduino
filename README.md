@@ -69,11 +69,7 @@ Weighing Machines </br>
 ![WhatsApp Image 2024-10-29 at 3 19 37 PM](https://github.com/user-attachments/assets/bea8c357-6cb3-4430-8d28-0c0a86674cf1)
 
 ### LED OFF
-
-< img src="https://github.com/user-attachments/assets/932c3786-fa52-4636-ae6c-d093b0fb40d9" width="400" height="500"/>
-
-
-
+<img src="https://github.com/user-attachments/assets/932c3786-fa52-4636-ae6c-d093b0fb40d9" width="400" height="500"/>
 ## RESULT
 ### To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
