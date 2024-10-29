@@ -34,22 +34,22 @@ LED pushbutton code is a program written for the Arduino UNO microcontroller tha
 ### Arduino 
 Arduino Uno. It is a microcontroller board developed by Arduino.cc and is based on Atmega328 Microcontroller.The software used for writing, compiling & uploading code to Arduino boards is called Arduino IDE.Arduino UNO is a very valuable addition in electronics that consists of a USB interface, 14 digital I/O pins(of which 6 Pins are used for PWM), 6 analog pins and an Atmega328 microcontroller. It also supports 3 communication protocols named Serial, I2C and SPI protocol.It has an operating voltage of 5V while the input voltage may vary from 7V to 12V.Arduino UNO has a maximum current rating of 40mA, so the load shouldn't exceed this current rating or you may harm the board.It comes with a crystal oscillator of 16MHz, which is its operating frequency.It also has 1 Reset Pin, which is used to reset the board programmatically. In order to reset the board, we need to make this pin LOW.It also has 6 Power Pins, which provide different voltage levels.Arduino UNO comes with 3 types of memories associated with it, named Flash Memory: 32KB,SRAM: 2KB,EEPROM: 1KB.Pin 2 and 3 are used for providing external interrupts. An interrupt is called by providing LOW or changing value.Arduino Uno comes with a built-in LED which is connected through pin 13. Providing HIGH value to the pin will turn it ON and LOW will turn it OFF.
 
-![image](https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/7ad1998f-493c-4e80-ba7f-d63303616c53)
+<img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/7ad1998f-493c-4e80-ba7f-d63303616c53" width="600" height="400"/>
 
 ### Push button
 Push button switches or push switches are small lever-like devices used to create or break an electronic circuit. It is also used to control actions in machines that ruin electronics. In simple words, push button switches are used to run or stop electrical appliances or circuits.Connecting a push button with an Arduino is very simple. Connect one terminal of the push button to the ground pin and another terminal to any Arduino digital pins. Here you have to use a pull-up resistor (10k Ω) to keep the voltage HIGH when you are not pressing the button.
 The pullup resistor is nothing but a high-value resistor connecting to the Arduino digital pin you are using with the HIGH (5v) voltage.
 
-![image](https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/afa696a5-5cdf-4b58-aaee-983089e03130)
+<img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/afa696a5-5cdf-4b58-aaee-983089e03130" width="600" height="400"/>
 
 ### Led
 LED is a semiconductor light source. It consists of a PN Junction Diode and when voltage is applied to the LED, electrons and holes recombine in the PN Junction and release energy in the form of light (Photons).The light emitted by an LED is usually monochromatic i.e. of single color and the color is dependent on the energy band gap of the semiconductor.Light Emitting Diodes can be manufactured to emit all the wavelengths of visible spectrum i.e. from Red (620nm to 750nm) to blue – violet (380nm to 490nm).The electrical symbol of an LED is similar to that of a PN Junction Diode
-![image](https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/d7a70bbf-453c-47af-9215-9a6e252f9503)
+<img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/d7a70bbf-453c-47af-9215-9a6e252f9503" width="600" height="400"/>
 
 ### Working 
 In the setup function, the pin mode for the LED and pushbutton pins are set using the pinMode function. The pin mode for the LED pin is set to OUTPUT, and the pin mode for the pushbutton pin is set to INPUT.In the loop function, the state of the pushbutton is read using the digitalRead function. If the pushbutton is pressed (HIGH state), the LED is turned on using the digitalWrite function. If the pushbutton is not pressed (LOW state), the LED is turned off. This process is repeated continuously, with the state of the pushbutton and the state of the LED being continuously checked and updated.
 
-![image](https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/8b4930b4-4040-46ab-9e2e-d3277559ae6f)
+<img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/8b4930b4-4040-46ab-9e2e-d3277559ae6f" width="600" height="400"/>
 
 ### Applications
 Interactive Light Display </br>
@@ -60,16 +60,16 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2024-10-29 at 3 19 38 PM (1)](https://github.com/user-attachments/assets/5774db84-ac22-457b-be49-9c89c2e90965)
+<img src="https://github.com/user-attachments/assets/5774db84-ac22-457b-be49-9c89c2e90965" width="600" height="400"/>
 ## PROGRAM
-![WhatsApp Image 2024-10-29 at 3 19 39 PM](https://github.com/user-attachments/assets/8c15828e-6e21-4fa5-abfe-eb9d8ccb9140)
+<img src="https://github.com/user-attachments/assets/8c15828e-6e21-4fa5-abfe-eb9d8ccb9140" width="600" height="400"/>
 ## OUTPUT
 ### LED ON
 
-![WhatsApp Image 2024-10-29 at 3 19 37 PM](https://github.com/user-attachments/assets/bea8c357-6cb3-4430-8d28-0c0a86674cf1)
+<img src="https://github.com/user-attachments/assets/bea8c357-6cb3-4430-8d28-0c0a86674cf1" width="600" height="400"/>
 
 ### LED OFF
-<img src="https://github.com/user-attachments/assets/932c3786-fa52-4636-ae6c-d093b0fb40d9" width="400" height="500"/>
+<img src="https://github.com/user-attachments/assets/932c3786-fa52-4636-ae6c-d093b0fb40d9" width="600" height="400"/>
 ## RESULT
 ### To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
