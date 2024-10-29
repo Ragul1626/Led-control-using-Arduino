@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+### NAME:M RAGUL
+### REG NO:24008385
+# LedcontrolusingArduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,9 +60,20 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-
+![WhatsApp Image 2024-10-29 at 3 19 38 PM (1)](https://github.com/user-attachments/assets/5774db84-ac22-457b-be49-9c89c2e90965)
 ## PROGRAM
-
+![WhatsApp Image 2024-10-29 at 3 19 39 PM](https://github.com/user-attachments/assets/8c15828e-6e21-4fa5-abfe-eb9d8ccb9140)
 ## OUTPUT
+### LED ON
+
+![WhatsApp Image 2024-10-29 at 3 19 37 PM](https://github.com/user-attachments/assets/bea8c357-6cb3-4430-8d28-0c0a86674cf1)
+
+### LED OFF
+
+![WhatsApp Image 2024-10-29 at 3 19 38 PM](https://github.com/user-attachments/assets/932c3786-fa52-4636-ae6c-d093b0fb40d9)
+
+
 
 ## RESULT
+### To design and implement a system for LED control using an Arduino microcontroller and a push button.
+
