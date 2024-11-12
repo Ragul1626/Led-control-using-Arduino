@@ -1,6 +1,7 @@
-### NAME:M RAGUL
-### REG NO:24008385
-# LedcontrolusingArduino
+### NAME: M RAGUL
+### REG NO: 24008385
+### EXPERIMENT 1
+# Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -61,9 +62,13 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 <img src="https://github.com/user-attachments/assets/5774db84-ac22-457b-be49-9c89c2e90965" width="600" height="400"/>
+
 ## PROGRAM
+
 <img src="https://github.com/user-attachments/assets/8c15828e-6e21-4fa5-abfe-eb9d8ccb9140" width="600" height="400"/>
+
 ## OUTPUT
+
 ### LED ON
 
 <img src="https://github.com/user-attachments/assets/bea8c357-6cb3-4430-8d28-0c0a86674cf1" width="600" height="400"/>
